@@ -5,6 +5,9 @@ This is a custom burrito recipe that I developed from scratch. I wanted
 something similar to what I usually order at Chipotle. Frustrated with a lack
 of recipes that match what I wanted, I decided to create my own.
 
+I'm not much of a salsa person, but feel free to add your favorite salsa
+recipe, or any other ingredients you want.
+
 Ingredients
 -----------
 
