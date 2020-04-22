@@ -17,11 +17,13 @@ Ingredients
 * 2 cups brown rice, bagged
 * 4 jalape&#241;os, diced, with seeds
 * 3 tbsp olive oil
+* 3 tbsp lime juice
+* 1 cup cilantro, chopped
+* 1 tsp salt
 * Taco cheese blend
 * Sour cream
 * Shredded lettuce
 * **TODO**: Spice blend for chicken
-* **TODO**: Spice blend for cilantro lime rice
 
 Directions
 ----------
@@ -29,10 +31,10 @@ Directions
 1. Thoroughly drain the black beans. Put in a pot, fill with water to the
    top of the beans. Bring to a low simmer until about &#8532; of the water
    is gone.
-2. Pour 8 cups of water into a pot. Bring to a boil, add the bags of rice,
-   and boil uncovered for 10-12 minutes. Drain the pot, cut open the bags, and
-   dump the rice out of the bags into the pot.
-   - **TODO**: Cilantro lime rice
+2. Pour 8 cups of water into a pot. Add &#189; tsp salt. Bring to a boil, add
+   the bags of rice, and boil uncovered for 10-12 minutes. Drain the pot, cut
+   open the bags, and dump the rice out of the bags into the pot. Stir in the
+   cilantro and lime juice.
 3. Half the three boneless chicken breasts lengthwise. Then slice them again,
    lengthwise, into strips &#189;" wide.
 4. Heat the olive oil in a saucepan. Add the chicken spice blend, and spread it
