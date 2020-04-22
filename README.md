@@ -1,5 +1,5 @@
 Kylo's Kitchen
-^^^^^^^^^^^^^^
+==============
 
 This is a collection of recipes that I've found, modified, or created myself
 from scratch. If it's a modification of an existing recipe, a link to the
