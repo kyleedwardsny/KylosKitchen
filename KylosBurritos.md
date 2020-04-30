@@ -40,7 +40,7 @@ Directions
    cilantro and lime juice.
 3. Half the three boneless chicken breasts lengthwise. Then slice them again,
    lengthwise, into strips &#189;" wide.
-4. Combine the ground cumin, paprika, black pepper, cayenne pepper, and &#188;
+4. Combine the ground cumin, paprika, black pepper, cayenne pepper, and &#189;
    tsp salt. This will go with the chicken.
 5. Heat the olive oil in a saucepan. Add the chicken spice blend, and spread it
    around. Add the chicken. Cook until the chicken is cooked all the way
